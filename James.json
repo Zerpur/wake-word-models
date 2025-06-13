@@ -3,7 +3,7 @@
   "wake_word": "james",
   "author": "Zerpur",
   "website": "",
-  "model": "https://github.com/Zerpur/wake-word-models/raw/refs/heads/main/James.tflite",
+  "model": "https://github.com/Zerpur/wake-word-models/blob/2cad31cd64a1c19a3fd96ed8c7c37e8f1d657039/James.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.7,

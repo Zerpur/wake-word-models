@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "james",
   "author": "Zerpur",
-  "website": "",
-  "model": "https://github.com/Zerpur/wake-word-models/raw/main/James.tflite",
+  "website": "https://github.com/Zerpur/wake-word-models",
+  "model": "James.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.7,
